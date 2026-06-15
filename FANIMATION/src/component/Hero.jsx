@@ -1,4 +1,4 @@
-import heroImg from "../assets/images/hero.png"
+import heroImg from "../assets/images/Hero.png"
 import "../App.css"
 
 function Hero() {
